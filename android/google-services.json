@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486632270473",
+    "project_id": "telephonchu",
+    "storage_bucket": "telephonchu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486632270473:android:745afeebaa8610eccc3458",
+        "android_client_info": {
+          "package_name": "com.chaysoft.telefonchu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486632270473-2t4eqi432u32rlr1naih4isacnu15nmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chaysoft.telefonchu",
+            "certificate_hash": "8dfee71fe969085203f4a9421ff2c4b42efe3cfd"
+          }
+        },
+        {
+          "client_id": "486632270473-j0n31t3h12cs4ge12dfsvtvkmetl2k2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Scp1j2XNgjV_AIwTyX14y9mpxf1W6fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486632270473-j0n31t3h12cs4ge12dfsvtvkmetl2k2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
